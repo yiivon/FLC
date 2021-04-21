@@ -14,4 +14,5 @@ const FLC = require('FLC');
 let flc = new FLC({});
 ```
 
+### Browser
 
