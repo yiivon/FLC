@@ -12,6 +12,9 @@
 const FLC = require('FLC');
 
 let flc = new FLC({});
+// or
+flc.configurate({});
+
 ```
 
 ### Browser
