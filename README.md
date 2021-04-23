@@ -21,5 +21,6 @@ flc.configurate({});
 // ES6
 ```
 const {FLC} = import('flc.js');
+let flc = new FLC({});
 
 ```
