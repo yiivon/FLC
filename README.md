@@ -25,4 +25,6 @@ let flc = new FLC({});
 
 flc.inputVariants();
 
+flc.outputVariants();
+
 ```
