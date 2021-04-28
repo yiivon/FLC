@@ -4,6 +4,10 @@
 ## Install & Usage
 ### Nodejs
 
+yarn add flc
+or npm install flc
+
+
 ### Browser
 
 ## Examples
