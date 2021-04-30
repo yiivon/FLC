@@ -25,7 +25,7 @@ flc.configurate({});
 // ES6
 ```
 const {FLC} = import('flc.js');
-let flc = new FLC({});
+let flc = new FLC({method: ''});
 
 flc.inputVariants();
 
