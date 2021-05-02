@@ -1,4 +1,4 @@
-# FLC
+# FLC (with visualizer)
  Fuzzy Logic Control
 
 ## Install & Usage
