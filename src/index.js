@@ -3,4 +3,8 @@
  *	version 1.0.0
  */
 
-export default class FLC{};
+import {flc} from './flc';
+
+export default class FLC extend flc {
+	
+};
