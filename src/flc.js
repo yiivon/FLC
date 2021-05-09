@@ -1,3 +1,11 @@
+class input {
+
+}
+
+class output {
+	
+}
+
 class flc {
 	var_inputs = [];
 	var_outputs = [];
@@ -6,7 +14,6 @@ class flc {
 	fuzzey = null;
 
 	 calc() {
-
 	 	return [];
 	 }
 };
