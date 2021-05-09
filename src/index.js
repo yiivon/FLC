@@ -6,5 +6,8 @@
 import {flc} from './flc';
 
 export default class FLC extend flc {
-	
+	constructor() {
+		super();
+	}
+
 };

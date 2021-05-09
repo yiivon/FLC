@@ -22,6 +22,7 @@ flc.configurate({});
 ```
 
 ### Browser
+
 // ES6
 ```
 const {FLC} = import('flc.js');
