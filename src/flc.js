@@ -19,5 +19,7 @@ class flc {
 };
 
 module.exports = {
+	input,
+	output,
 	flc
 };
