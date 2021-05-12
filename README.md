@@ -8,7 +8,7 @@
 or `npm install flc`
 
 
-### Browser
+### Browser, need abover v86.0
 
 ## Examples
 ### Nodejs
