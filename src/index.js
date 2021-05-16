@@ -14,4 +14,8 @@ export default class FLC extend flc {
 		
 	}
 
+	set on_failure () {
+
+	}
+
 };
