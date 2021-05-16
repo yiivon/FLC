@@ -10,4 +10,8 @@ export default class FLC extend flc {
 		super();
 	}
 
+	calc() {
+		
+	}
+
 };
