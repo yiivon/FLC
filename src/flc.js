@@ -19,7 +19,7 @@ class flc {
 
 	 reflect() {
 	 	
-const eval_role_privileges = async (role, db, root_primitive_tree) => {
+ eval_role_privileges  (role, db, root_primitive_tree)  {
 	let depart_path = role.department.superiors;
 	let resources = [];     // resources of final upper of this user's
 	let policy_level = 0;
