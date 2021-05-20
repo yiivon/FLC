@@ -14,6 +14,10 @@ export default class FLC extend flc {
 		
 	}
 
+	rejct() {
+		
+	}
+
 	set on_failure () {
 
 	}
