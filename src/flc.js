@@ -10,12 +10,24 @@ class flc {
 	var_inputs = [];
 	var_outputs = [];
 
+	app = {};
+
 	sensors = [];
 	fuzzey = null;
 
 	 calc() {
+	 		this.app.wizard = (ctx) => {
+		let wnd = ui('user_edit_wnd');
+		wnd._ctx = ctx;
+		if (isNaN(wnd._ctx.node.id))
+			wnd._ctx.node.id = _.toNumber(wnd._ctx.node.id.replace(/^R/i, ''));
+		wnd.show();
+	}
+
+
 	 	return [];
 	 }
+
 
 	 reflect() {
 	 	
