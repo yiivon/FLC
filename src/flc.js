@@ -91,10 +91,14 @@ class flc {
 
 	let privileges = eval_role_privileges_with_resources(role.privileges, resources)
 	return {policy_level, privileges, resources};
-};
+}
 
 
 	 }
+
+	accept() {
+		
+	}
 };
 
 
