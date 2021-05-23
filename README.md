@@ -10,12 +10,19 @@ or `npm install flc`
 
 ### Browser, need abover v86.0
 
+
+
 ## Examples
 ### Nodejs
 ```
 const FLC = require('FLC');
 
-let flc = new FLC({});
+let flc = new FLC({
+	inputs: [],
+	
+	});
+
+
 // or
 flc.configurate({});
 
